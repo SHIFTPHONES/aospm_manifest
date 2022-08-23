@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="shift" fetch="https://github.com/SHIFTPHONES" />
+
+  <project path="device/shift/axolotl" name="aospm_device_shift_axolotl" revision="main" remote="shift" />
+  <project path="device/shift/axolotl-kernel" name="aospm_device_shift_axolotl-kernel" revision="main" remote="shift" />
+
+  <project path="vendor/shift/manifest" name="aospm_manifest" revision="main" remote="shift" />
+</manifest>
